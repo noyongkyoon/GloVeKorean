@@ -1,0 +1,10 @@
+vocab_size: 50000
+cooccurrence_dir: "."
+
+# second step parameters
+## output path for the trained word vectors 
+output_filepath: "models/gloveKorean"
+## glove paremeters
+embedding_size: 100
+x_max: 100
+alpha: 0.75

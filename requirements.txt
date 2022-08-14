@@ -1,0 +1,4 @@
+torch==1.12.1
+gensim==4.2.0
+PyYAML==6.0
+streamlit==1.12.0
